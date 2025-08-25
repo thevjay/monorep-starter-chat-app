@@ -133,3 +133,17 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters)
 - [Configuration Options](https://turborepo.com/docs/reference/configuration)
 - [CLI Usage](https://turborepo.com/docs/reference/command-line-reference)
+
+
+
+# 1.Initialised a monorepo
+# 2.We learned how to create a design system/ re-use/import things from a 'ui' module.
+# 3. We learnt about "exports" in package.json
+# 4. We created a vary minimal frontend for our chat app
+
+-------
+1. We added a ws and a http-server folder
+2. We initialized package.json in both of them
+3. We put the common tsconfig.json in the `typescript-configs` module
+4. We added code to the express server
+5. We added a dev and a built script
